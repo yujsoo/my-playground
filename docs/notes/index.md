@@ -1,4 +1,4 @@
-<img src="/my-playground/988.jpg" alt="기록" width="300" />
+<img src="/988.jpg" alt="기록" width="300" />
 
 ## 가이드
 
